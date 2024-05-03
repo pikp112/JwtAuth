@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4NglpID/wLQ/XPgmxfFFXd+4WLVEpUkWxFcjMBu7RA8=",
+  "Source": "JwtAuth",
+  "BasePath": "_content/JwtAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
