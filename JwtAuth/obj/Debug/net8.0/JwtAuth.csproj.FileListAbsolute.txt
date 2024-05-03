@@ -139,3 +139,4 @@ C:\Users\H3XM\OneDrive - Eurofins IT-ST07\Desktop\Personal\Training\JwtAuth\JwtA
 C:\Users\H3XM\OneDrive - Eurofins IT-ST07\Desktop\Personal\Training\JwtAuth\JwtAuth\obj\Debug\net8.0\JwtAuth.pdb
 C:\Users\H3XM\OneDrive - Eurofins IT-ST07\Desktop\Personal\Training\JwtAuth\JwtAuth\obj\Debug\net8.0\JwtAuth.genruntimeconfig.cache
 C:\Users\H3XM\OneDrive - Eurofins IT-ST07\Desktop\Personal\Training\JwtAuth\JwtAuth\obj\Debug\net8.0\ref\JwtAuth.dll
+C:\Users\H3XM\OneDrive - Eurofins IT-ST07\Desktop\Personal\Training\JwtAuth\JwtAuth\obj\Debug\net8.0\JwtAuth.sourcelink.json

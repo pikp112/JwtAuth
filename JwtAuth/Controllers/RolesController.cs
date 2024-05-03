@@ -29,6 +29,7 @@ namespace JwtAuth.Controllers
             return BadRequest(role.Errors);
         }
 
+        [AllowAnonymous]
         [HttpGet]
         public async Task<IActionResult> GetRoles()
         {
